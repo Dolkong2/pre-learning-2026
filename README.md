@@ -81,4 +81,10 @@ IoT 개발자 과정 사전 학습 리퍼지토리
     - 계정 연동
   
   4. 리포지토리 클론
-     
+     - Github Desktop 메뉴 Clone Repository 클릭
+     - Github.com 탭에서 저장소 검색, 선택
+       Local Path 지정 후 `클론` 버튼 검색
+
+
+ 5. Visual Studio Code 설치
+          
