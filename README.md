@@ -103,7 +103,7 @@ IoT 개발자 과정 사전 학습 리퍼지토리
   6. <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/59f5213e-68c4-46be-888b-b381fb5a7573" /> setup was successful에서 unable limit 누르기
   7. cmd or powershell 오픈해서 python -- version 확인
   8. visual studio  Extension(확장)에 가서 python 검색후 섳치  
-
+  9. Vs Cpde를 재오픈하여 폴더 생성
 
 
 - 프로그램 개발 개념 
