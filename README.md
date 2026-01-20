@@ -101,6 +101,8 @@ IoT 개발자 과정 사전 학습 리퍼지토리
   4. advanced options에서 install python 3.1x for all users 체크
   5. 경로 변경 후 설치 <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/8cd5e9d1-383d-4207-a426-83b618b48cb9" />
   6. <img width="656" height="415" alt="image" src="https://github.com/user-attachments/assets/59f5213e-68c4-46be-888b-b381fb5a7573" /> setup was successful에서 unable limit 누르기
+  7. cmd or powershell 오픈해서 python -- version 확인
+  8. visual studio  Extension(확장)에 가서 python 검색후 섳치  
 
 
 
