@@ -68,6 +68,17 @@ IoT 개발자 과정 사전 학습 리퍼지토리
 **,~~,__ 사용
   ```
   - 문장을 작성할시 **강조**, ~~취소선~~, __ 밑줄 __을 사용 할수 있다.
-       
-     
+
+
+- GITHUB 로컬 리포지토리 생성
+  1. GIT FOR WINDOWS 설치
+    - https://git-scm.com/install/windows 에서 `install for window` 버튼 클릭
+    - Git for Windows/x64 Setup. 설치
+    - Git 설치 옵션은 기본 그대로 사용 가능
+    - cmd 또는 powershell창에서 `git --version` 확인
+  3. GITHUB DESKTOP 설치
+    - https://desktop.github.com/download/에서 다운로드 클릭, 설치
+    - 계정 연동
+  
+  4. 리포지토리 클론
      
