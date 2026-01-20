@@ -87,4 +87,6 @@ IoT 개발자 과정 사전 학습 리퍼지토리
 
 
  5. Visual Studio Code 설치
-          
+   1. Extensions -> Korean pack for Visual Studio Code 설치
+
+- 추가 설치 프로그램     
