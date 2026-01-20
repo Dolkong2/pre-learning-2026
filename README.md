@@ -95,3 +95,10 @@ IoT 개발자 과정 사전 학습 리퍼지토리
 
 
 - **python** 개발 환경 설정
+  1. https://www.python.org/에서 Download의 Pytho 3.1x.x 버튼 클릭
+  2. add python.exe to path 체크 활성화 후  installer > Customize installation 클릭
+  3. documentation 체크 해제, for all users 체크 활성화 다음
+  4. advanced options에서 install python 3.1x for all users 체크
+  5. 
+
+- 프로그램 개발 개념 
