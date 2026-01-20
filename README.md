@@ -89,4 +89,9 @@ IoT 개발자 과정 사전 학습 리퍼지토리
  5. Visual Studio Code 설치
    1. Extensions -> Korean pack for Visual Studio Code 설치
 
-- 추가 설치 프로그램     
+- 추가 설치 프로그램
+ 1. notepad++ 에디터 - https://notepad-plus-plus.org/downloads/ 설치
+ 2. 픽픽 -   https://picpick.net/download/beta/ 설치
+
+
+- **python** 개발 환경 설정
